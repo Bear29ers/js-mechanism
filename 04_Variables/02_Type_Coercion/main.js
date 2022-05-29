@@ -1,3 +1,4 @@
+/* 暗黙的な型変換 */
 function printTypeAndValue(val) {
   console.log(typeof val, val);
 }

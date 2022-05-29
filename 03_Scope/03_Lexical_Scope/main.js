@@ -1,3 +1,4 @@
+/* レキシカルスコープ */
 let a = 2;
 function fn1() {
   let b = 1;

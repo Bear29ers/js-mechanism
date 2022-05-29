@@ -1,3 +1,4 @@
+/* 前提知識 - 変数 */
 let a = 'hello';
 const b = 'bye';
 

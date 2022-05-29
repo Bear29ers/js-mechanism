@@ -1,3 +1,4 @@
+/* コールスタック */
 function a() {
 }
 function b() {

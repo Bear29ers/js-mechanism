@@ -1,3 +1,4 @@
+/* 前提知識 - オブジェクト */
 let obj = {
   prop1: 'value1',
   prop2: 'value2',

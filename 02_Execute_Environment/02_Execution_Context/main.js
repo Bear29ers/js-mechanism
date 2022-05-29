@@ -1,3 +1,4 @@
+/* 実行コンテキスト */
 let a = 0;
 function b() {
   console.log(arguments);  // argumentsが使用できる

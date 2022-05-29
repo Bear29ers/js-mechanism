@@ -1,3 +1,4 @@
+/* let、constとvar */
 // let, constは再宣言できない
 // let a = 0;
 // let a = 0;
