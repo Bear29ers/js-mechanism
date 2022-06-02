@@ -1,3 +1,4 @@
+/* クロージャー（動的な関数の生成）*/
 function addNumberFactory(num) {
   function addNumber(value) {
     // レキシカルスコープの引数を参照する

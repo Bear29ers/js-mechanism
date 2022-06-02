@@ -1,3 +1,4 @@
+/* 即時関数 */
 function a() {
   console.log('called');
 }
